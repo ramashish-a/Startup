@@ -5,6 +5,19 @@ body {
     background-color: lightblue; /* You can change 'lightblue' to any color */
 }
 
+section {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+}
+h2 {
+    color: #333;
+}
+p {
+    font-size: 16px;
+    color: #555;
+}
+
 header {
     background-color: #007bff;
     color: white;
