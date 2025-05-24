@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to My Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Hello, I'm Ramashish!</h1>
+        <p>Welcome to my personal webpage. I am blogging to share some knowledge and gain some skills along the way. </p>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>I am passionate about computer science and web development.</p>
+    </section>
+    <button onclick="changeText()">Click Me</button>
+    <script src="script.js"></script>
+</body>
+</html>
